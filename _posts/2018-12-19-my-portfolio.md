@@ -11,7 +11,7 @@ categories: jekyll update
 
 [김집사 앱][김집사 앱]
 
-[휴대폰 사진 인화 앱][휴대폰 사진 인화 앱]
+[스마트폰 사진 인화 앱][스마트폰 사진 인화 앱]
 
 [코닥 포토 프린터 관리자 앱][코닥 포토 프린터 관리자 앱]
 
@@ -31,7 +31,7 @@ categories: jekyll update
 [피프틴 - 고양시 공공자전거 앱]: https://docs.google.com/document/d/1U-uKjBs1RBci0g39e74jSJXbkomlNAxV12-2A6oJ_Yk/edit?usp=sharing
 [음성서점 앱]: https://docs.google.com/document/d/1kLTDxwUEVJ-w6AsLGrQOngWpCmjt_qUlPeM8HtouIOE/edit?usp=sharing
 [김집사 앱]: https://docs.google.com/document/d/18iaBk4PsMue8R1FCIJEUoUKUXijUE0JHrQsaNnwscbg/edit?usp=sharing
-[휴대폰 사진 인화 앱]: https://docs.google.com/document/d/15tg8jrKacrVfa-DyfqBHW9SYklAfTwIQINq4NdeRgTc/edit?usp=sharing
+[스마트폰 사진 인화 앱]: https://docs.google.com/document/d/15tg8jrKacrVfa-DyfqBHW9SYklAfTwIQINq4NdeRgTc/edit?usp=sharing
 [코닥 포토 프린터 관리자 앱]: https://docs.google.com/document/d/1z8nK9us8HQ3Frlv9-FivAbvzQXEYStiSAWdKsNQjmj0/edit?usp=sharing
 [법무부 성범죄자 발찌 제어 앱]: https://docs.google.com/document/d/1o3FhpNjL5oWtqwsOQokjoS8SmgAIWcea615V_E5kJBY/edit?usp=sharing
 [harvit 앱 with Hdac]: https://docs.google.com/document/d/1EN_j7yemxiGE6UgrgBkFEGqp32nz3C_-CsFg0mwrcNs/edit?usp=sharing
