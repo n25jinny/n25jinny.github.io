@@ -17,6 +17,8 @@ categories: jekyll update
 
 [법무부 성범죄자 발찌 제어 앱][법무부 성범죄자 발찌 제어 앱]
 
+[Hdac Wallet][Hdac Wallet]
+
 [harvit 앱 with Hdac][harvit 앱 with Hdac]
 
 [harvit 앱 with EOS][harvit 앱 with EOS]
@@ -34,6 +36,7 @@ categories: jekyll update
 [스마트폰 사진 인화 앱]: https://docs.google.com/document/d/15tg8jrKacrVfa-DyfqBHW9SYklAfTwIQINq4NdeRgTc/edit?usp=sharing
 [코닥 포토 프린터 관리자 앱]: https://docs.google.com/document/d/1z8nK9us8HQ3Frlv9-FivAbvzQXEYStiSAWdKsNQjmj0/edit?usp=sharing
 [법무부 성범죄자 발찌 제어 앱]: https://docs.google.com/document/d/1o3FhpNjL5oWtqwsOQokjoS8SmgAIWcea615V_E5kJBY/edit?usp=sharing
+[Hdac Wallet]: https://docs.google.com/document/d/1MV_tRdFAEdgroN_evlcIkzW6AYfxzBRZdKUf4cHcI1w/edit?usp=sharing
 [harvit 앱 with Hdac]: https://docs.google.com/document/d/1EN_j7yemxiGE6UgrgBkFEGqp32nz3C_-CsFg0mwrcNs/edit?usp=sharing
 [harvit 앱 with EOS]: https://docs.google.com/document/d/1Bnf0BYcQKAveIvNSUAMUpJGnoqubJ5zYZDjR-xjf8E4/edit?usp=sharing
 [harvit 이더리움 토큰]: https://docs.google.com/document/d/1bZ1MSmVLtH5xOFlIs7aniJdjszZZQoNwBNBwOz8v-mw/edit?usp=sharing
