@@ -13,6 +13,8 @@ categories: jekyll update
 
 [SKT 단말 DM 앱][SKT 단말 DM 앱]
 
+[무선인터넷 속도측정 앱][무선인터넷 속도측정 앱]
+
 [스마트폰 사진 인화 앱][스마트폰 사진 인화 앱]
 
 [코닥 포토 프린터 관리자 앱][코닥 포토 프린터 관리자 앱]
@@ -36,6 +38,7 @@ categories: jekyll update
 [음성서점 앱]: https://docs.google.com/document/d/1kLTDxwUEVJ-w6AsLGrQOngWpCmjt_qUlPeM8HtouIOE/edit?usp=sharing
 [김집사 앱]: https://docs.google.com/document/d/18iaBk4PsMue8R1FCIJEUoUKUXijUE0JHrQsaNnwscbg/edit?usp=sharing
 [SKT 단말 DM 앱]: https://docs.google.com/document/d/1e6QiS2KZRZBGpNdbIHAOxnbt0quXQVZqYHParXLyc98/edit?usp=sharing
+[무선인터넷 속도측정 앱]: https://docs.google.com/document/d/1mMa0iBLxtA3Oo-D4XSKPOL1x_f3TJfRWqgbjTszgTqM/edit?usp=sharing
 [스마트폰 사진 인화 앱]: https://docs.google.com/document/d/15tg8jrKacrVfa-DyfqBHW9SYklAfTwIQINq4NdeRgTc/edit?usp=sharing
 [코닥 포토 프린터 관리자 앱]: https://docs.google.com/document/d/1z8nK9us8HQ3Frlv9-FivAbvzQXEYStiSAWdKsNQjmj0/edit?usp=sharing
 [법무부 성범죄자 발찌 제어 앱]: https://docs.google.com/document/d/1o3FhpNjL5oWtqwsOQokjoS8SmgAIWcea615V_E5kJBY/edit?usp=sharing
